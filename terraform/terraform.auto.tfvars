@@ -1,6 +1,6 @@
 location            = "canadacentral"
-resource_group      = "my-resource-group"
-owner_email         = "root@example.com"
+resource_group      = "jmillerrg"
+owner_email         = "john@example.com"
 vnet_address_prefix = "10.0.0.0/16"
 external_name       = "external"
 external_prefix     = "10.0.1.0/24"
